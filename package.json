@@ -1,0 +1,31 @@
+{
+  "name": "node-nats",
+  "version": "1.0.0",
+  "description": "Centralized Error Logging with Nats",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.14",
+    "multer": "^1.4.2",
+    "nats": "^1.0.1",
+    "validatorjs": "^3.22.1",
+    "winston": "^3.1.0",
+    "winston-transport": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraarsyed/node-nats.git"
+  },
+  "author": "abraarsyed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraarsyed/node-nats/issues"
+  },
+  "homepage": "https://github.com/abraarsyed/node-nats#readme"
+}
